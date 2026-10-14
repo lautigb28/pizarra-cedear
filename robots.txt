@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lautigb28.github.io/pizarra-cedear/sitemap.xml
